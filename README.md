@@ -23,9 +23,7 @@ This presentation is ideal for:
 - Educational workshops and webinars
 - Company employee training programs
 
-## 📸 Preview
 
-![Preview](https://user-images.githubusercontent.com/placeholder/phishing-presentation-preview.png)
 
 ## 🔐 Stay Safe Online
 
